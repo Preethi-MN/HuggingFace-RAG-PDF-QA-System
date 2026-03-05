@@ -1,0 +1,6 @@
+streamlit==1.27.0
+pypdf==3.15.0
+langchain==0.1.114
+sentence-transformers==2.2.2
+huggingface-hub==0.16.4
+faiss-cpu==1.7.4
